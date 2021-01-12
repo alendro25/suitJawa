@@ -30,7 +30,7 @@ while(tanya){
         // }
         Hasil = (comp == 'Orang') ? 'MENANG' : 'KALAH';
     } else if(p == 'Semut'){
-        Hasil = (comp == 'Orang') ? 'MENANG' : 'KALAH';
+        Hasil = (comp == 'Orang') ? 'KALAH' : 'MENANG';
     } else if(p == 'Orang'){
         Hasil = (comp == 'Gajah') ? 'KALAH' : 'MENANG';
     } else {
